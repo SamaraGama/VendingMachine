@@ -1,0 +1,16 @@
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\MainWindow.g.cs
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\App.baml
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\MainWindow.baml
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\samar\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
