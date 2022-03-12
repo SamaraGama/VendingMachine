@@ -25,7 +25,7 @@
         </Grid.RowDefinitions>
 
         <StackPanel Background="MediumPurple" Grid.ColumnSpan="5">
-            <TextBlock Style="{StaticResource BlocoTítulo}">Luby Drinks</TextBlock>
+            <TextBlock Style="{StaticResource BlocoTítulo}">!Free Drinks</TextBlock>
         </StackPanel>
         <ListView Style="{StaticResource ListaDisponíveis}" ItemsSource="{Binding Items}" Grid.Row="1" Grid.ColumnSpan="3" Grid.RowSpan="4">
             <ListView.ItemTemplate>
